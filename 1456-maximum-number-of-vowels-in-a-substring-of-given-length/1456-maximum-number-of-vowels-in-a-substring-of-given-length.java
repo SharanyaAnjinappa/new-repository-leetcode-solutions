@@ -10,7 +10,7 @@ class Solution {
             max=Math.max(max,count);
         }return max;
     } 
-    public boolean isVowel(int n){
+    public boolean isVowel(char n){
         return (n=='a'||n=='e'||n=='i'||n=='o'||n=='u');
     }
 }
