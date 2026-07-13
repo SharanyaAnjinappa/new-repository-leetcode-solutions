@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
