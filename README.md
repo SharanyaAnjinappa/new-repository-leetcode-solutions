@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
