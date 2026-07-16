@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0525-contiguous-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0520-detect-capital) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0383-ransom-note) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
