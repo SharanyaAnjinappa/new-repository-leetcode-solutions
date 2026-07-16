@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0520-detect-capital) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
