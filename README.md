@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0169-majority-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -99,10 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
