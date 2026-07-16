@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0169-majority-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
