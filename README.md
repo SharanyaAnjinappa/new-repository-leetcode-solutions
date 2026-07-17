@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0605-can-place-flowers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Combinatorics
 |  |
