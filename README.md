@@ -174,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
