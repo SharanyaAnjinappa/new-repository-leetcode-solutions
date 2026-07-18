@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0520-detect-capital) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Enumeration
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
