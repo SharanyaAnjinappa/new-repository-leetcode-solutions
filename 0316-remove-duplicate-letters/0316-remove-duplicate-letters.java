@@ -1,10 +1,10 @@
 class Solution {
     public String removeDuplicateLetters(String s) {
-        int[] last =new int[26];
+        int[] last=new int[26];
         for(int i=0;i<s.length();i++){
             last[s.charAt(i)-'a']=i;
         }
-        boolean[] seen= new boolean[26];
+        boolean[] seen=new boolean[26];
         Stack<Character> stack=new Stack<>();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
@@ -18,7 +18,6 @@ class Solution {
         StringBuilder ans=new StringBuilder();
         while(!stack.isEmpty()){
             ans.append(stack.pop());
-        }
-        return ans.reverse().toString();
+        }return ans.reverse().toString();
     }
 }
