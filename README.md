@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
