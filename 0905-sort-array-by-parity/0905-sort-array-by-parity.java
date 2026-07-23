@@ -2,19 +2,16 @@ class Solution {
     public int[] sortArrayByParity(int[] nums) {
         int l=0;
         int r=nums.length-1;
-        int[] ans=new int[nums.length];
-        int i=0;
-        while(l<=r){
-            if(nums[i]%2==0){
-                ans[l]=nums[i];
-                l++;
-            }
+        while(l<r){
+            if(nums[l]%2==0){l++;}
+            else if(nums[r]%2==1){r--;}
             else{
-                ans[r]=nums[i];
-                r--;
-            }
-            i++;
+                int temp=nums[l];
+                nums[l]=nums[r];
+                nums[r]=temp;
+                l++;
+                r--;}
         }
-        return ans;
+        return nums;
     }                                           
 }
