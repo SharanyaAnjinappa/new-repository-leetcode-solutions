@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/SharanyaAnjinappa/new-repository-leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String Matching
 |  |
 | ------- |
